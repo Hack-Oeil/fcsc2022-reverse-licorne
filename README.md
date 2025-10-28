@@ -8,7 +8,7 @@ Fichier :
 
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Licorne](https://hackropole.fr/fr/challenges/reverse/fcsc2022-reverse-licorne/)
 
